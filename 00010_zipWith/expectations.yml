@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: aparearCon
+  inspection: HasUsage:foldl
+- binding: aparearCon
+  inspection: Not:HasUsage:zipWith
