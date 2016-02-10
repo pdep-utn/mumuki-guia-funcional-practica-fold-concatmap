@@ -2,3 +2,5 @@
 expectations:
 - binding: filtrar
   inspection: Not:HasUsage:filter
+- binding: ''
+  inspection: ''

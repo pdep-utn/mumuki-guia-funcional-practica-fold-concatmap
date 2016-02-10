@@ -1,4 +1,4 @@
-describe "pam" $ do
+describe "cabeza" $ do
   it "cabeza [1,2,3,4,5] == 1" $ do
     cabeza [1,2,3,4,5] `shouldBe` 1
 
