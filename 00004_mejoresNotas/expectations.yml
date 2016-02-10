@@ -2,3 +2,5 @@
 expectations:
 - binding: mejoresNotas
   inspection: HasUsage:foldl
+- binding: ''
+  inspection: ''

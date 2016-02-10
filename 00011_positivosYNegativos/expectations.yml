@@ -2,3 +2,5 @@
 expectations:
 - binding: positivosYNegativos
   inspection: HasUsage:concatMap
+- binding: ''
+  inspection: ''

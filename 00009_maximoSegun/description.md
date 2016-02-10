@@ -1,4 +1,4 @@
-Utilizando la función `foldl`, desarrollar la función `máximoSegun` que dada una función y una lista devuelve el elemento de la lista que hace máxima la función.
+Utilizando la función `foldl1`, desarrollar la función `máximoSegun` que dada una función y una lista devuelve el elemento de la lista que hace máxima la función.
 
 ```
 ム maximoSegun id [1,2,3,4,5]

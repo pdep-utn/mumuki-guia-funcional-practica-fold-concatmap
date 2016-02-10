@@ -3,7 +3,7 @@ expectations:
 - binding: cabeza
   inspection: HasBinding
 - binding: cabeza
-  inspection: HasUsage:foldl
+  inspection: HasUsage:foldl1
 - binding: cabeza
   inspection: Not:HasUsage:head
 - binding: ''

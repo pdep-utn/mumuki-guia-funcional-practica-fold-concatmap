@@ -1,4 +1,4 @@
-describe "positivosYNegativos" $ do
+descripbe "positivosYNegativos" $ do
   
   it "positivosYNegativos [6,7,8] == [ 6,-6, 7,-7, 8, -8]" $ do
     positivosYNegativos [6,7,8] `shouldBe` [ 6,-6, 7,-7, 8, -8]
