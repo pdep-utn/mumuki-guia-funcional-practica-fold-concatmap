@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: pam
+  inspection: HasBinding
+- binding: pam
+  inspection: HasUsage:foldl
