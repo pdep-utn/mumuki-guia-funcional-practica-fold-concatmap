@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: positivosYNegativos
+  inspection: HasUsage:concatMap

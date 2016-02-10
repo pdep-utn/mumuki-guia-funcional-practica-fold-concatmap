@@ -1,4 +1,4 @@
-Definir la función `positivosYNegativo` que, dada una lista de números devuelva una nueva lista con los numeros originales y sus opuestos
+Definir, usando `concatMap`, la función `positivosYNegativo` que, dada una lista de números devuelva una nueva lista con los numeros originales y sus opuestos
 
 ```haskell
 ム positivosYNegativos [6,7,8]
