@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: cabeza
+  inspection: HasBinding
+- binding: cabeza
+  inspection: HasUsage:foldl
+- binding: cabeza
+  inspection: Not:HasUsage:head
