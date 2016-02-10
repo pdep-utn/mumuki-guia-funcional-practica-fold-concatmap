@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esCapicua
+  inspection: HasUsage:foldl
+- binding: esCapicua
+  inspection: HasUsage:concatMap
