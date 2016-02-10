@@ -5,9 +5,10 @@ type: learning
 beta: false
 language: haskell
 id_format: '%05d'
-- 100
-- 200
-- 300
-- 400
-- 500
-- 600
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
