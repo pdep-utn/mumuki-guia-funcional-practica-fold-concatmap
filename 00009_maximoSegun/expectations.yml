@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: maximoSegun
+  inspection: HasUsage:foldl
