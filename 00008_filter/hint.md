@@ -1,0 +1,1 @@
+Hay veces que separar el problema en problemas mas chiquitos es fundamental
