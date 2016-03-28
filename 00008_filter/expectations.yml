@@ -3,4 +3,4 @@ expectations:
 - binding: filtrar
   inspection: Not:HasUsage:filter
 - binding: filtrar
-  inspection: HasUsage:foldl
+  inspection: HasUsage:foldr
