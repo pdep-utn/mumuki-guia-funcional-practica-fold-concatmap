@@ -1,1 +1,1 @@
-Hacerte una funcion auxiliar `mayorSegún` podría ser útil :smile:
+Hacerte una funcion auxiliar `mayorSegun` podría ser útil :smile:
