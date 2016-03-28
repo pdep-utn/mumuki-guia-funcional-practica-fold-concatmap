@@ -4,3 +4,5 @@ expectations:
   inspection: HasUsage:foldl
 - binding: esCapicua
   inspection: HasUsage:concatMap
+- binding: esCapicua
+  inspection: Not:HasUsage:reverse
