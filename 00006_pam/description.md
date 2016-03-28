@@ -7,4 +7,4 @@ Definí la función `pam`, que es... como el `map` pero al revés :stuck_out_ton
 [True, False, False]
 ```
 
-**Nota:** Recordá hacerlo usando `foldl`
+**Nota:** Hacerlo usando `foldr`
