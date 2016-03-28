@@ -1,0 +1,1 @@
+Además del foldr se pueden usar las funciones (!!) y length

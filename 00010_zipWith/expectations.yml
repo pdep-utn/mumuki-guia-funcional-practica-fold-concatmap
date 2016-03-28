@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: aparearCon
-  inspection: HasUsage:foldl
+  inspection: HasUsage:foldr
 - binding: aparearCon
   inspection: Not:HasUsage:zipWith
