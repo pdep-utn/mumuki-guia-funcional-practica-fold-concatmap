@@ -6,5 +6,3 @@ expectations:
   inspection: HasUsage:foldl1
 - binding: cabeza
   inspection: Not:HasUsage:head
-- binding: ''
-  inspection: ''

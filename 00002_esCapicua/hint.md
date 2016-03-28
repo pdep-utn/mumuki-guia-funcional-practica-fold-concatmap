@@ -1,1 +1,1 @@
-Utilizar `concatMap/1`, `foldl/3`.
+Utilizar `concatMap :: (a -> [b]) -> [a] -> [b]`, `foldl :: (a -> b -> a) -> a -> [b] -> a`.

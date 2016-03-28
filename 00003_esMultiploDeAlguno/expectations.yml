@@ -2,5 +2,3 @@
 expectations:
 - binding: esMultiploDeAlguno
   inspection: HasUsage:foldl
-- binding: ''
-  inspection: ''

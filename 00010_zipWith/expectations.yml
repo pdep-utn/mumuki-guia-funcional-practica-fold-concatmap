@@ -4,5 +4,3 @@ expectations:
   inspection: HasUsage:foldl
 - binding: aparearCon
   inspection: Not:HasUsage:zipWith
-- binding: ''
-  inspection: ''

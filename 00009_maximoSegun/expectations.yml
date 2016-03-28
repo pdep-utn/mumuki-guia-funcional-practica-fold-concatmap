@@ -2,5 +2,3 @@
 expectations:
 - binding: maximoSegun
   inspection: HasUsage:foldl1
-- binding: ''
-  inspection: ''

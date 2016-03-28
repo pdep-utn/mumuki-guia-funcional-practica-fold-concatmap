@@ -4,5 +4,3 @@ expectations:
   inspection: Not:HasUsage:filter
 - binding: filtrar
   inspection: HasUsage:foldl
-- binding: ''
-  inspection: ''

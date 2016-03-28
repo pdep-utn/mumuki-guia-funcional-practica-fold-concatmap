@@ -4,5 +4,3 @@ expectations:
   inspection: HasBinding
 - binding: pam
   inspection: HasUsage:foldl
-- binding: ''
-  inspection: ''
