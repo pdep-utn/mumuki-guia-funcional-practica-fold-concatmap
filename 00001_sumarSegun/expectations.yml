@@ -2,3 +2,5 @@
 expectations:
 - binding: sumarSegun
   inspection: HasUsage:foldl
+- binding: sumarSegun
+  inspection: Not:HasUsage:sum
