@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: mejoresNotas
-  inspection: HasUsage:foldl
+  inspection: HasUsage:foldr
