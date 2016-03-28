@@ -1,4 +1,4 @@
-Usando `foldl` y `concatMap`, definir la función `esMultiploDeAlguno/2`, que recibe un número y una lista y
+Usando `foldl`, definir la función `esMultiploDeAlguno/2`, que recibe un número y una lista y
 devuelve True si el número es múltiplo de alguno de los números de la lista. P.ej.
 
 ```haskell
