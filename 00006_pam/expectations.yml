@@ -3,4 +3,4 @@ expectations:
 - binding: pam
   inspection: HasBinding
 - binding: pam
-  inspection: HasUsage:foldl
+  inspection: HasUsage:foldr
