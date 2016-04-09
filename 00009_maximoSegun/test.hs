@@ -6,4 +6,4 @@ describe "maximoSegun" $ do
     maximoSegun negate [1,2,3,4,5] `shouldBe` 1
 
   it "maximoSegun abs [4,8,-2,9,-10,0] == -10" $ do
-    maximoSegun abs [4,8,-2,9,-10,0] `shouldBe` (-10)
+    maximoSegun abs [4,8,-2,9,-8,-10,0] `shouldBe` (-10)
