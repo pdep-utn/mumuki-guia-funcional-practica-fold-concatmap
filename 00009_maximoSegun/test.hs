@@ -7,6 +7,3 @@ describe "maximoSegun" $ do
 
   it "maximoSegun abs [4,8,-2,9,-10,0] == -10" $ do
     maximoSegun abs [4,8,-2,9,-10,0] `shouldBe` (-10)
-    
-  it "maximoSegun length [\"hola\",\"paradigmas\", \"como\",\"estas\"]"
-    maximoSegun length ["hola","paradigmas", "como","estas"] `shouldBe` "paradigmas"
