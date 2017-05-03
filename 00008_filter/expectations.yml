@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: filtrar
+- !ruby/hash:BSON::Document
+  binding: filtrar
   inspection: Not:HasUsage:filter
-- binding: filtrar
+- !ruby/hash:BSON::Document
+  binding: filtrar
   inspection: HasUsage:foldr

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: positivosYNegativos
+- !ruby/hash:BSON::Document
+  binding: positivosYNegativos
   inspection: HasUsage:concatMap

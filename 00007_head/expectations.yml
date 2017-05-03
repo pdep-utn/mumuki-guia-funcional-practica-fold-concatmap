@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: cabeza
+- !ruby/hash:BSON::Document
+  binding: cabeza
   inspection: HasBinding
-- binding: cabeza
+- !ruby/hash:BSON::Document
+  binding: cabeza
   inspection: HasUsage:foldl1
-- binding: cabeza
+- !ruby/hash:BSON::Document
+  binding: cabeza
   inspection: Not:HasUsage:head

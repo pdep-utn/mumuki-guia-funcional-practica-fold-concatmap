@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: sumarSegun
+- !ruby/hash:BSON::Document
+  binding: sumarSegun
   inspection: HasUsage:foldl
-- binding: sumarSegun
+- !ruby/hash:BSON::Document
+  binding: sumarSegun
   inspection: Not:HasUsage:sum

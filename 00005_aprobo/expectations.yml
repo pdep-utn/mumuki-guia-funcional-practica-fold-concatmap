@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: aprobo
+- !ruby/hash:BSON::Document
+  binding: aprobo
   inspection: HasBinding
-- binding: aprobo
+- !ruby/hash:BSON::Document
+  binding: aprobo
   inspection: HasUsage:foldl
-- binding: aprobo
+- !ruby/hash:BSON::Document
+  binding: aprobo
   inspection: Not:HasUsage:all

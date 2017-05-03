@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: mejoresNotas
+- !ruby/hash:BSON::Document
+  binding: mejoresNotas
   inspection: HasUsage:foldr

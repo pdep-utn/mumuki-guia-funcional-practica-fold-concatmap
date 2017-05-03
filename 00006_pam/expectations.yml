@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: pam
+- !ruby/hash:BSON::Document
+  binding: pam
   inspection: HasBinding
-- binding: pam
+- !ruby/hash:BSON::Document
+  binding: pam
   inspection: HasUsage:foldr
