@@ -1,11 +1,8 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: esCapicua
+- binding: esCapicua
   inspection: HasUsage:foldl
-- !ruby/hash:BSON::Document
-  binding: esCapicua
+- binding: esCapicua
   inspection: HasUsage:concatMap
-- !ruby/hash:BSON::Document
-  binding: esCapicua
+- binding: esCapicua
   inspection: Not:HasUsage:reverse

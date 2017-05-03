@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: maximoSegun
+- binding: maximoSegun
   inspection: HasUsage:foldl1
-- !ruby/hash:BSON::Document
-  binding: maximoSegun
+- binding: maximoSegun
   inspection: Not:HasDirectRecursion
