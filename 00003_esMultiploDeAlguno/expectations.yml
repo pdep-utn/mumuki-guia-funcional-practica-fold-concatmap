@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: esMultiploDeAlguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDeAlguno
   inspection: HasUsage:foldl
-- binding: esMultiploDeAlguno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDeAlguno
   inspection: Not:HasUsage:any

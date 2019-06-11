@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: maximoSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximoSegun
   inspection: HasUsage:foldl1
-- binding: maximoSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximoSegun
   inspection: Not:HasDirectRecursion

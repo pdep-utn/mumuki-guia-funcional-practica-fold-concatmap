@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: pam
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pam
   inspection: HasBinding
-- binding: pam
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pam
   inspection: HasUsage:foldr

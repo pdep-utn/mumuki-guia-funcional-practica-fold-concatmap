@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: mejoresNotas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mejoresNotas
   inspection: HasUsage:foldr

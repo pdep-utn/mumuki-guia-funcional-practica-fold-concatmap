@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: filtrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
   inspection: Not:HasUsage:filter
-- binding: filtrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
   inspection: HasUsage:foldr
